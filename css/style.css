@@ -10,11 +10,6 @@
    box-sizing: border-box;
 }
 
-body,
-html {
-   width: 100%;
-}
-
 /* Barra de Navegación. */
 
 .nav {
@@ -37,6 +32,9 @@ html {
    align-items: center;
    justify-content: start;
 
+}
+.wenas{
+   height: auto;
 }
 
 .logo-menu {
@@ -112,7 +110,4 @@ article img {
    margin-right: 20px;
   
    margin-bottom: 50px;
-}
-main{
-   margin-bottom: 100%;
 }
